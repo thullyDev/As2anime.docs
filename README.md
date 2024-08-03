@@ -9,13 +9,13 @@ As2anime (private)
 
 <p align="center">
   <a href="#">
-    <img src="https://yourdomain.com/path/to/as2anime-logo.png" alt="Logo" width="200"/>
+    <img src="https://thullydev.github.io/thullyDevStatics/images/as2anime-logo.png" alt="Logo" width="200"/>
   </a>
 </p>
 
 ## What is as2anime?
 
-Welcome to **as2anime** - the ultimate anime streaming service! 🎬 Check out **[as2anime](https://www.as2anime.com)**. Powered by **Django** and **Firebase**, our site offers a seamless anime streaming experience with real-time data synchronization and dynamic content.
+Welcome to **as2anime** - the ultimate anime streaming service! 🎬 Check out **[as2anime](https://as2animetesting.onrender.com/)**. Powered by **Django** and **Firebase**, our site offers a seamless anime streaming experience with real-time data synchronization and dynamic content.
 
 <div align="center">
 
@@ -28,4 +28,4 @@ Welcome to **as2anime** - the ultimate anime streaming service! 🎬 Check out *
 </div>
 
 ## Images
-**[as2anime Preview Images](https://imgur.com/a/yourimageurl)** 
+**[as2anime Preview Images](https://imgur.com/a/PDCVU9J)** 
