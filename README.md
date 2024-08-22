@@ -15,7 +15,7 @@ As2anime (private)
 
 ## What is as2anime?
 
-Welcome to **as2anime** - the ultimate anime streaming service! 🎬 Check out **[as2anime](https://as2animetesting.onrender.com/)**. Powered by **Django** and **Firebase**, our site offers a seamless anime streaming experience with real-time data synchronization and dynamic content.
+Welcome to **as2anime** - the ultimate anime streaming service! 🎬 Check out **[as2anime](https://imgur.com/a/PDCVU9J)**. Powered by **Django** and **Firebase**, our site offers a seamless anime streaming experience with real-time data synchronization and dynamic content.
 
 <div align="center">
 
